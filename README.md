@@ -11,4 +11,4 @@ We used Firebase and Firestore for authentication and cloud-based storage.
 A glimpse of our app:
 ![login](https://user-images.githubusercontent.com/59783150/83945820-ce8d6380-a83f-11ea-9cf7-e1970f1b7830.jpg)
 ![convo](https://user-images.githubusercontent.com/59783150/83945823-d220ea80-a83f-11ea-85f0-4e38996670d5.jpg)
-More images can be found in the images folder.
+More images can be found in the appImg folder.
