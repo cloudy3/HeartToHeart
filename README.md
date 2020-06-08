@@ -11,5 +11,5 @@ We used Firebase and Firestore for authentication and cloud-based storage.
 A glimpse of our app:
 | |  |
 |--|--|
-|![login](./appImg/login.png) |![convo](./appImg/convo.png)|
+|![login](./appImg/login.jpg) |![convo](./appImg/convo.jpg)|
 More images can be found in the appImg folder.
